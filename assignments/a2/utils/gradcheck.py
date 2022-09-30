@@ -49,7 +49,7 @@ def gradcheck_naive(f, x, gradientText):
             print("First gradient error found at index %s in the vector of gradients" % str(ix))
             print("Your gradient: %f \t Numerical gradient: %f" % (
                 grad[ix], numgrad))
-            return
+            #return
 
         it.iternext() # Step to next dimension
 
