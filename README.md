@@ -4,7 +4,7 @@ My assignments solutions for Stanford CS224N, 2021Winter.
 
 ## Assignments
 ### #1 Exploring Word Vectors
-[**coding solution**](assignments/a1/exploring_word_vectors.pdf)
+[coding solution](assignments/a1/exploring_word_vectors.pdf)
 
 **Summary:**  
 - Find word embeddings by first construct a co-occurrence matrix from a large corpus and then perform singular value decomposition(SVD) on the matrix
@@ -13,8 +13,9 @@ My assignments solutions for Stanford CS224N, 2021Winter.
 
 
 ### #2 word2vec
-[**written solution**](assignments/a2/a2_written_solution.pdf)  
-[**coding solution**](assignments/a2/)
+[handout](assignments/a2/a2_handout.pdf)  
+[written solution](assignments/a2/a2_written_solution.pdf)  
+[coding solution](assignments/a2/)
 
 **Summary:**  
 * Derive by hand the partial derivatives of each loss component with respct to center and outside word vectors for two variants of the skip-gram model:
