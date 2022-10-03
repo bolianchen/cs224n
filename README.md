@@ -23,6 +23,5 @@ My assignments solutions for Stanford CS224N, 2021Winter.
     * one applying negative sampling
 * Implement the losses and their derivatives into functions according to the handwritting answers
 * Takeaways:
-    * forms of the handwritting answers should be simplified properly to facilitate vectorizing the implementations
-    * appreciate computations automated by deep learning frameworks after manully implementing a simpler version
-
+    * as the reference for the coding part, the forms of the handwritting answers should be simplified properly to facilitate expressing them in matrix operations
+    * appreciate how deep learning frameworks reduce burdens for us while manually implementing computations automated by them with numpy
